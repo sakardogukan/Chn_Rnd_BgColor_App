@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.containerDiv {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+}
+button {
+    border-radius: 10px;
+    padding: 3rem;
+}
+
+p {
+    margin-top: 1rem;
+    border: 1px solid black;
+    padding: 2rem;
+    color: red;
+    font-size: 1rem;
+    font-weight: 800;
+    border-radius: 10px;
+}
