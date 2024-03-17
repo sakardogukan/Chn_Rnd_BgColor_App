@@ -15,7 +15,7 @@ At the end of the project, following topics are to be covered;
 ### Project Skeleton:
 
 ```
-    Guess_The_Number_Game(folder)
+    Chn_Rnd_BgColor_App (folder)
     |
     |---- app.js
     |---- index.html
@@ -25,6 +25,6 @@ At the end of the project, following topics are to be covered;
 
 ### Project View Images:
 
-![images](./Project_images.png)
+![images](./project_images.png)
 
 > Designed By DOGUKAN © Mar 2024
